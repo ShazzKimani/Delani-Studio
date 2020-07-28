@@ -1,0 +1,121 @@
+* {
+  text-align: center;
+}
+
+.container {
+  min-width: 100%;
+}
+
+.part1 {
+  background-image: url("../image/h_img.jpg");
+  height: 500px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+}
+
+.padd {
+  padding-bottom: 20px;
+}
+
+#logo {
+  margin-top: 10%;
+}
+
+#mouse {
+  margin-top: 10%;
+}
+
+.part3 {
+  background-image: url("../image/s_image.jpg");
+  background-size: cover;
+  text-align: center;
+  height: 300px;
+  width: 100%;
+  color: white;
+}
+
+.what1 {
+  margin-bottom: 40px;
+}
+
+#con1 {
+  margin-top: 10%;
+}
+
+#do {
+  text-align: center;
+}
+
+.mop {
+  margin: -10px;
+  padding: -10px;
+}
+
+.part4 {
+  background-image: url("../image/c_image.jpg");
+  background-size: cover;
+  text-align: center;
+  height: 400px;
+  width: 100%;
+  color: white;
+}
+
+.social {
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
+
+.form-cont input {
+  width: 49%;
+  background: transparent;
+}
+
+.form-cont textarea {
+  margin-top: 10px;
+  width: 100%;
+  background: transparent;
+}
+
+.form-cont {
+  text-align: center;
+  position: relative;
+  width: 700px;
+  max-width: 100%;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+::placeholder,
+.con {
+  color: #fff;
+}
+
+::placeholder {
+  font-size: 10px;
+}
+
+.con {
+  padding-bottom: 30px;
+}
+
+.what {
+  display: inline-block;
+}
+
+.mop {
+  padding-top: 10px;
+}
+
+.mop2 {
+  padding-top: 10px;
+}
+
+.social {
+  display: inline-block;
+}
