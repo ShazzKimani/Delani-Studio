@@ -14,6 +14,19 @@ $("button").on('click', function() {
     this.reset();
   });
 });
-$(".what").hover(function () {
-  $(this).children(".want").fadeToggle(1000, "linear");
+
+$(document).ready( function() {
+
+  $('.what').hover( function() {
+      $(this).find('.img-fluid').fadeTo(300);
+  }, function() {
+      $(this).find('.img-fluid').fadeTo(100);
+  });
+  
 });
+
+// $(".what").hover(function () {
+//   $(this).children(".want").fadeToggle(1000, "linear");
+// });
+
+
