@@ -19,10 +19,10 @@ No known bugs detected.
 ## Setup Instructions and Installation
 * Clone this repository to a location in your file system.
 
-* git clone 
+* git clone https://shazzkimani.github.io/Delani-Studio/
 
 ## Live link
-
+* https://shazzkimani.github.io/Delani-Studio/
 
 ## Behaviour Driven Development
 
@@ -47,7 +47,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Contact
 
-Incase of anything, please reach out via sharonlimani01@gmail.com
+Incase of anything, please reach out via sharonkimani01@gmail.com
 
 ## License
 
