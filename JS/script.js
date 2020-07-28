@@ -4,8 +4,8 @@ $('.main').click(function() {
 });
 
 $("button").click(function (kami) {
-  var client = document.getElementById('client').value;
-  alert( client +' we have received your message' +'Thank you');
+  var user = document.getElementById('user').value;
+  alert( user+' we have received your message' + '. Thank you');
   kami.preventDefault();
 });
 
@@ -17,16 +17,13 @@ $("button").on('click', function() {
 
 $(document).ready( function() {
 
-  $('.what').hover( function() {
-      $(this).find('.img-fluid').fadeTo(300);
-  }, function() {
-      $(this).find('.img-fluid').fadeTo(100);
-  });
+  $('.portfolio-item').hover( function() {
+      $(this).children('p').fadeToggle(300);
+  })
   
 });
 
-// $(".what").hover(function () {
-//   $(this).children(".want").fadeToggle(1000, "linear");
-// });
+
+
 
 
