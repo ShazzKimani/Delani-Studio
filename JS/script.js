@@ -8,3 +8,12 @@ $("button").click(function (kami) {
   alert( client +' we have received your message' +'Thank you');
   kami.preventDefault();
 });
+
+$("button").on('click', function() {
+  $('form').each(function() {
+    this.reset();
+  });
+});
+$(".what").hover(function () {
+  $(this).children(".want").fadeToggle(1000, "linear");
+});
