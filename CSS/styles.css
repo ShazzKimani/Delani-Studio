@@ -7,7 +7,7 @@
 }
 
 .part1 {
-  background-image: url("../image/h_img.jpg");
+  background-image: url("../IMAGES/h_img.jpg");
   height: 500px;
   width: 100%;
   background-size: cover;
@@ -29,7 +29,7 @@
 }
 
 .part3 {
-  background-image: url("../image/s_image.jpg");
+  background-image: url("../IMAGES/s_image.jpg");
   background-size: cover;
   text-align: center;
   height: 300px;
@@ -55,7 +55,7 @@
 }
 
 .part4 {
-  background-image: url("../image/c_image.jpg");
+  background-image: url("../IMAGES/c_image.jpg");
   background-size: cover;
   text-align: center;
   height: 400px;
