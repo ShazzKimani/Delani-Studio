@@ -19,10 +19,10 @@ No known bugs detected.
 ## Setup Instructions and Installation
 * Clone this repository to a location in your file system.
 
-* git clone 
+* git clone https://shazzkimani.github.io/Delani-Studio/
 
 ## Live link
-
+* https://shazzkimani.github.io/Delani-Studio/
 
 ## Behaviour Driven Development
 
