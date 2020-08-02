@@ -18,7 +18,7 @@ $("button").on('click', function() {
 $(document).ready( function() {
 
   $('.portfolio-item').hover( function() {
-      $(this).children('p').fadeToggle(300);
+      $(this).children('p').fadeToggle(500);
   })
   
 });

@@ -47,7 +47,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Contact
 
-Incase of anything, please reach out via sharonlimani01@gmail.com
+Incase of anything, please reach out via sharonkimani01@gmail.com
 
 ## License
 
