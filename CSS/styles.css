@@ -8,7 +8,9 @@
 
 .part1 {
   background-image: url("../IMAGES/h_img.jpg");
-  height: 500px;
+  /* height: 500px; */
+  height: 90vh;
+  
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
